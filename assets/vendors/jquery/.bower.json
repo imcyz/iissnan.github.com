@@ -1,12 +1,11 @@
 {
   "name": "jquery",
   "_cacheHeaders": {
-    "ETag": "\"5491a9c1-176bb\"",
+    "ETag": "W/\"5491a9c1-176bb\"",
     "Last-Modified": "Wed, 17 Dec 2014 16:05:21 GMT",
-    "Content-Length": "95931",
-    "Content-Type": "application/x-javascript"
+    "Content-Type": "application/javascript; charset=utf-8"
   },
-  "_release": "e-tag:5491a9c1-",
+  "_release": "e-tag:W/\"5491a9c",
   "main": "index.js",
   "_source": "http://code.jquery.com/jquery-1.11.2.min.js",
   "_target": "*",

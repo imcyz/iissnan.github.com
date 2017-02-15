@@ -1,9 +1,9 @@
 {
-  "name": "Vi",
-  "version": "v2015",
-  "homepage": "https://github.com/iissnan/iissnan.github.com",
+  "name": "hi",
+  "version": "v2017",
+  "homepage": "https://github.com/imcyz/imcyz.github.io",
   "authors": [
-    "iissnan <iissnan@gmail.com>"
+    "imcyz <yanzhe.cn@gmail.com>"
   ],
   "main": "index.html",
   "private": true,
